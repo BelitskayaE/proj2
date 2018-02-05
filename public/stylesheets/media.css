@@ -1,0 +1,383 @@
+@media  (max-width: 1024px) {
+
+
+    #time{
+        display:none;
+
+
+    }
+
+
+    input:focus {
+        width: 300px;
+    }
+
+
+    #logo{
+        display:none;
+
+    }
+
+    #profile{
+
+        left:0;
+        height:34px;
+        width:110px;
+
+    }
+
+    #photo{
+        width:30px;
+        height:30px;
+        left:15px;
+
+    }
+
+    #name{
+
+        left:50px;
+
+    }
+
+
+
+    #bell{
+
+
+        left:125px;
+
+    }
+    .badg{
+
+        left:115px;
+
+
+    }
+
+
+
+    #uvedom{
+
+        left:50px;
+top:20px;
+
+
+
+    }
+
+
+
+
+
+
+
+    #toolone{
+      display:none;
+    }
+
+    #tooltwo{
+        display:none;
+    }
+
+    #toolthree{
+        display:none;
+
+    }
+
+
+
+    #searchform{
+
+        left:120px;
+
+        transform:scale(0.8);
+
+
+    }
+
+    #inp1:focus {
+        width: 160px;
+    }
+
+
+#menu{
+    height:34px;
+    width:100%;
+
+    position:fixed;
+
+}
+
+nav{
+    top:112px;
+    width:180px;
+}
+
+
+    .addalso{
+       left:180px;
+        top:34px;
+        width:130px;
+        height:150px;
+        font-size:11px;
+
+    }
+
+
+
+    #menuangle{
+
+        display:block;
+
+    }
+
+
+    #block{
+
+        width: 100%;
+        height: 100%;
+        position:absolute;
+        left:0;
+        top:33.5px;
+
+    }
+
+#fleks{
+    width:98%;
+    flex-wrap: wrap;
+  left:5px;
+
+
+}
+
+
+.flex{
+    flex-wrap: wrap;
+    width:40px;
+    height:40px;
+}
+
+
+
+
+    #blockforblock{
+
+        height:80px;
+
+
+
+
+
+    }
+
+
+
+
+    #buttflex{
+    top:35px;
+        left:-215px;
+
+
+    }
+
+
+    #searchfo{
+
+
+        top:113px;
+
+
+    }
+
+
+
+
+    #p1,#p2,#p3,#p4,#p5,#p6,#p7{
+        display:none;
+    }
+
+
+
+
+
+#footer{
+    top:500px;
+}
+
+
+
+
+
+
+
+
+}
+
+@media  (max-width: 500px) {
+
+
+
+
+
+
+
+
+
+    .img{
+
+        left:18px;
+
+
+
+    }
+
+
+
+    #item1{
+        left:23px;
+        top:-17px;
+
+    }
+
+
+    .grid input{
+        left:0;
+    }
+
+    #special{
+        left:0;
+        position:absolute;
+        top:20px;
+    }
+
+
+    .fa-bars{
+
+        left:10px;
+
+    }
+
+
+
+    .usr{
+        top:15px;
+        left:0px;
+        position:relative;
+
+    }
+    .client{
+        display:none;
+
+
+    }
+
+    .img:hover{
+
+        transform: scale(1);
+
+    }
+
+
+
+    .grid{
+
+        grid-template-columns: 1.5fr 1fr 0.3fr 0.3fr;
+
+
+    }
+
+
+}
+
+
+
+ @media (max-width: 350px) { /* Вот тут таблица будет совсем отчаянная */
+     .fa-bars{
+
+         display:none;
+
+     }
+
+
+
+     .usr{
+         display:none;
+
+     }
+
+     #special{
+         display:none;
+     }
+
+
+
+     .check{
+         display:none;
+     }
+
+
+     #item1{
+         left:0px;
+
+
+     }
+}
+
+
+
+
+
+    @media  (max-width: 1024px) {
+
+
+        #addcont{
+
+            top:180px;
+            left:228px;
+
+
+        }
+
+
+
+
+
+        .grid{
+            top:260px;
+        }
+        #online{
+
+            top:10px;
+
+            left:325px;
+
+        }
+
+
+
+
+        #footer{
+            top:400px;
+        }
+
+        #vopros{
+            display:none;
+
+        }
+
+
+        #voprosform{
+            display:none;
+        }
+
+    #time{
+
+        left:35%;
+
+    }
+
+
+
+}
+
+

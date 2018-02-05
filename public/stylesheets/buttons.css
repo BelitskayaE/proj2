@@ -1,0 +1,133 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+#filter{
+    width: 70px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 42px;
+    border: 1px solid #A4A4A4;
+    background: #E6E6E6;
+    outline: none;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0,0.5);
+    transition: .3s linear;
+    display:flex;
+    display:-webkit-flex;
+    display:-moz-flex;
+    position:absolute;
+    align-items:center;
+   top:128px;
+    left:225px;
+    font-family: 'EB Garamond', serif;
+   color:#848484;
+    cursor:pointer;
+
+}
+
+#filter:hover{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+    color:#424242;
+}
+
+
+
+
+
+#contactos{
+    width: 113px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 42px;
+    border: 1px solid #A4A4A4;
+    background: #E6E6E6;
+    outline: none;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0,0.5);
+    transition: .3s linear;
+    display:flex;
+    display:-webkit-flex;
+    display:-moz-flex;
+    position:absolute;
+    align-items:center;
+    top:128px;
+    left:320px;
+    font-family: 'EB Garamond', serif;
+    color:#848484;
+    cursor:pointer;
+
+}
+
+#contactos:hover{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+    color:#424242;
+}
+
+
+
+
+
+#plus{
+    width: 30px;
+    height: 30px;
+    padding-left:9px;
+    border-radius: 50%;
+    border: 1px solid #A4A4A4;
+    background: #E6E6E6;
+    outline: none;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0,0.5);
+    transition: .3s linear;
+    display:flex;
+    display:-webkit-flex;
+    display:-moz-flex;
+    position:absolute;
+    align-items:center;
+    top:128px;
+    left:460px;
+    font-family: 'EB Garamond', serif;
+    color:#848484;
+    cursor:pointer;
+
+
+}
+
+#plus:hover{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+    color:#424242;
+}
+
+
+#buttflex{
+    display:flex;
+top:0px;
+    width:100%;
+    position:absolute;
+
+}
+
+
+#addcont{
+    width: 120px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 42px;
+    border: 1px solid #A4A4A4;
+    background: #DAC7CA;
+    outline: none;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0,0.5);
+    transition: .3s linear;
+    display:flex;
+    display:-webkit-flex;
+    display:-moz-flex;
+    position:absolute;
+    align-items:center;
+    top:190px;
+    left:10px;
+    font-family: 'EB Garamond', serif;
+    color:#848484;
+    cursor:pointer;
+
+}
+
+#addcont:hover{
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+    color:#424242;
+}

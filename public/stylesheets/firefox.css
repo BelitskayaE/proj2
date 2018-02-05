@@ -1,0 +1,161 @@
+@-moz-document url-prefix() {
+
+
+    #bell{
+        left:65px;
+    }
+
+
+    .badg{
+        left:55px;
+    }
+
+nav{
+    width:230px;
+}
+
+
+#block{
+
+
+    width:790px;
+    left:265px;
+}
+
+
+#profile{
+
+
+    left:265px;
+}
+
+    #photo{
+
+        left:285px;
+
+    }
+
+    #name{
+
+        left:335px;
+
+    }
+
+
+    #time{
+
+
+        left:49%;
+
+
+    }
+
+
+    #searchform{
+
+        left:720px;
+
+
+
+    }
+
+    #searchfo{
+
+
+        top:-225px;
+
+
+    }
+
+
+    .addalso::before{
+        left: -25px;
+    }
+
+    .addalso{
+        left:230px;
+        top:44px;
+    }
+
+
+.check{
+    top:11px;
+}
+
+
+
+    #uvedom{
+        left:130px;
+        top:25px;
+    }
+
+
+    #footer{
+
+        top:340px;
+    }
+
+
+    #share{
+        right:45px;
+    }
+
+#notebtn{
+
+    left:47px;
+top:6px;
+    transform:scale(1.4);
+    position:absolute;
+}
+
+    .note1 textarea {
+        outline:none;
+        border:none;
+    }
+
+
+    #banner{
+
+
+        right:60px;
+
+    }
+
+
+
+    #searchfo{
+
+        position:absolute;
+        display:flex;
+        display:-webkit-flex;
+        display:-moz-flex;
+        top:133px;
+        left:10px;
+        width:auto;
+        height:20px;
+        align-items:center;
+        -webkit-align-items:center;
+
+
+    }
+
+
+
+    #toolthree::before {
+        top: -33px;
+        left: 74px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
