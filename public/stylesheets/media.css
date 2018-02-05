@@ -291,19 +291,11 @@ nav{
 
 
 
- @media (max-width: 350px) { /* Вот тут таблица будет совсем отчаянная */
-     .fa-bars{
-
-         display:none;
-
-     }
+ @media (max-width: 375px) { /* Вот тут таблица будет совсем отчаянная */
 
 
 
-     .usr{
-         display:none;
 
-     }
 
      #special{
          display:none;
@@ -321,6 +313,19 @@ nav{
 
 
      }
+
+
+
+     .grid{
+         transform:scale(0.8);
+
+         left:-20px;
+         position:absolute;
+         top:-20px;
+
+     }
+
+
 }
 
 
